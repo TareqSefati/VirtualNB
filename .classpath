@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="bin" kind="output"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/1.5.7.RELEASE/38d14ff78da7cd0267ddc955a757844310f1f4b1/spring-boot-starter-thymeleaf-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/1.5.7.RELEASE/261807514511fb8c2732b25df6aba53eb0cf7981/spring-boot-starter-thymeleaf-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.5.7.RELEASE/ed32ab903cfd31b0da82ea29abc0a5d754235fc7/spring-boot-starter-web-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.5.7.RELEASE/a862305be8b7512a41f6768d825ed37251ccbbe0/spring-boot-starter-web-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.webjars.bower/bootstrap/4.0.0-beta/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/bootstrap-4.0.0-beta-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.webjars.bower/bootstrap/4.0.0-beta/23c93fe1074dc686639b863cfc958af8d76c5060/bootstrap-4.0.0-beta.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.38/b83cac8c938dfb9b7a8e191e2d482be88eb8280c/mysql-connector-java-5.1.38-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.38/dbbd7cd309ce167ec8367de4e41c63c2c8593cc5/mysql-connector-java-5.1.38.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/1.5.7.RELEASE/bf412b7be314559bc0b0590c35e56299ce510eaf/spring-boot-starter-data-jpa-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/1.5.7.RELEASE/ccdf14487724b7c1343e5d2605f7170c026e405/spring-boot-starter-data-jpa-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.5.7.RELEASE/b0ed27f4f27e0cf852588d80e53bc1d7e4b99998/spring-boot-starter-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.5.7.RELEASE/b42fe6962dd8b3be4ac8c1d7134d0ca2d0a35c7e/spring-boot-starter-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring4/2.1.5.RELEASE/868bf3e54214e9ede779f2908e414a05a816a39f/thymeleaf-spring4-2.1.5.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring4/2.1.5.RELEASE/74cb9028e99597b5d71a98e919fd531a7fc290b4/thymeleaf-spring4-2.1.5.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/nz.net.ultraq.thymeleaf/thymeleaf-layout-dialect/1.4.0/85f7cb52060083a1b94b585736d67c6aa9d78968/thymeleaf-layout-dialect-1.4.0-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/nz.net.ultraq.thymeleaf/thymeleaf-layout-dialect/1.4.0/8d7810c069ed1534b9631fb1e85c35973546086/thymeleaf-layout-dialect-1.4.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.5.7.RELEASE/79e1192dc61159dfddc71707122a181726223a53/spring-boot-starter-tomcat-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.5.7.RELEASE/eae533e2a0111a51d812912acb3d3e2368736d1b/spring-boot-starter-tomcat-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.3.5.Final/901d21d67b3dfb7a7fdf2cde1bd0eb9ca989f2f3/hibernate-validator-5.3.5.Final-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.3.5.Final/622a9bcef2eed6d41b5b8e0662c36212009e375/hibernate-validator-5.3.5.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.10/def9982a0ee209c6f906cf9119a3f1dc53449a4e/jackson-databind-2.8.10-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.10/f7b83cb2bc4b88d53961e749e1ad32f49ef017b7/jackson-databind-2.8.10.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.11.RELEASE/81b86c6cddc25feecf0bb2e11df3b7e56bafb806/spring-web-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.11.RELEASE/50a3dfce550bdf9459dfb2c6282aa104b040258e/spring-web-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.11.RELEASE/c79159035df433ec745c58a1f1a29d7a71e37ad0/spring-webmvc-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.11.RELEASE/814f91ec4dc324e724bbe7cbc5045b234604c539/spring-webmvc-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.webjars.bower/jquery/3.2.1/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/jquery-3.2.1-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.webjars.bower/jquery/3.2.1/9c166263c874d7841b453c47db5b5fcd78f9e203/jquery-3.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.webjars.bower/popper.js/1.12.5/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/popper.js-1.12.5-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.webjars.bower/popper.js/1.12.5/6295f3992285345f1b9caded5e14b16b669e2688/popper.js-1.12.5.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/1.5.7.RELEASE/e52d2f021e13dc3b2c2b8e0aba24feb1f3b7e15f/spring-boot-starter-aop-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/1.5.7.RELEASE/189098a72ccc0cca07ea42d6715c10524b5a93d1/spring-boot-starter-aop-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.5.7.RELEASE/4c95c5a891b2c1ae4740f70e112c258967bd1624/spring-boot-starter-jdbc-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.5.7.RELEASE/98c652a5461ccbec70b55fd0f7815d9c9a37a082/spring-boot-starter-jdbc-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.0.12.Final/bf593c18eacdead181ff26b4997d7ba8fcab93bd/hibernate-core-5.0.12.Final-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.0.12.Final/e58bf1c660e6706d8e2cbb53bae110f574366102/hibernate-core-5.0.12.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-entitymanager/5.0.12.Final/4b8ac7bb495c3509801a4f0744d6d6a6533ca0a/hibernate-entitymanager-5.0.12.Final-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-entitymanager/5.0.12.Final/302a526f5058290e9cbd719a5caf9f248d344719/hibernate-entitymanager-5.0.12.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/5d1fb3fe056fe51e6f6ed9b4ef4898a774ed69c0/javax.transaction-api-1.2-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/d81aff979d603edd90dcd8db2abc1f4ce6479e3e/javax.transaction-api-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.7.RELEASE/895798b9f80b1049bde582550b729153906b5194/spring-data-jpa-1.11.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.7.RELEASE/587051cc7d7a3ddfac6098d623a658abb2f15865/spring-data-jpa-1.11.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.3.11.RELEASE/dea1488defa14576c68723cf64597db0b43383/spring-aspects-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.3.11.RELEASE/38ab744d37aef58762a03dbe7ab1479070ebadc6/spring-aspects-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.5.7.RELEASE/b8cc9958676bdeb18f8bd178c779f20d70a97b1/spring-boot-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.5.7.RELEASE/1006870df7b3dc203df7ce84463c5dd7049fdaa4/spring-boot-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.7.RELEASE/2cf2cfec18d5ab88d9a6c57a2ce1c4e6e8232ff0/spring-boot-autoconfigure-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.7.RELEASE/e83f1407ff991e9e7eb156f49fa19d868bb73289/spring-boot-autoconfigure-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.5.7.RELEASE/345c8ef969bde9e2585396f4825728c4435c1f89/spring-boot-starter-logging-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.5.7.RELEASE/c84c4ea09d7f789a0d5e936a961471e5dbd9295e/spring-boot-starter-logging-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.11.RELEASE/f2c74d02505cc3bbed690261a409d8f5f5a386fc/spring-core-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.11.RELEASE/eb30ed093f628279d3aead068fd478fa343f1dad/spring-core-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.17/63577e87886c76228db9f8a2c50ea43cde5072eb/snakeyaml-1.17-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.17/7a27ea250c5130b2922b86dea63cbb1cc10a660c/snakeyaml-1.17.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/2.1.5.RELEASE/5c6ed8b67535b03282f66f14723f2f16d5d8add1/thymeleaf-2.1.5.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/2.1.5.RELEASE/513bffa3daaac277460c1a0a2dccb228fa40569e/thymeleaf-2.1.5.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/5588d177f5427312a68cd2589545fc58f4513b9b/groovy-2.4.12-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.12/a43be367110c491787219f1c128b5b5fc54f1e70/groovy-2.4.12.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.20/263c2aa3468ac7a2924a462b56ca8e0c0e6a0003/tomcat-embed-core-8.5.20-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.20/b9026ee20f1f6a2b0fc3e51dd806d800901448b0/tomcat-embed-core-8.5.20.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.5.20/50fc2f4502d5e54049585b978d576b0ae3920062/tomcat-embed-el-8.5.20-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.5.20/42960f481a8a80f4ffd3b865c2232820e3565bf1/tomcat-embed-el-8.5.20.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.5.20/b3e1140aca26cdf6ce8c1b7ab228b622e1061a48/tomcat-embed-websocket-8.5.20-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.5.20/4df9055507926a2651f691cc9964c50493a0ab29/tomcat-embed-websocket-8.5.20.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.1.Final/9d32b33527abb934fb12035d8849f7b9c4804049/jboss-logging-3.3.1.Final-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.1.Final/c46217ab74b532568c0ed31dc599db3048bd1b67/jboss-logging-3.3.1.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.3.4/d5aa53c93626884209c1e82fdf44d2ccdaf8e9c2/classmate-1.3.4-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.3.4/3d5f48f10bbe4eb7bd862f10c0583be2e0053c6/classmate-1.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/29a1a95363d497e856c0a7d682e4f7973e334068/jackson-annotations-2.8.0-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/45b426f7796b741035581a176744d91090e2e6fb/jackson-annotations-2.8.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.10/c9231226e0eb8e90ff73c09ae57487b451d65771/jackson-core-2.8.10-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.10/eb21a035c66ad307e66ec8fce37f5d50fd62d039/jackson-core-2.8.10.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.11.RELEASE/1c0868ac3c06872f1fa7d97ebf05ea0e119db67d/spring-aop-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.11.RELEASE/461d0bb58f1de30203d9331adf4b51de9554de5a/spring-aop-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.11.RELEASE/430d9b461e5bc167ffe8f098e85e0d7284b30d78/spring-beans-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.11.RELEASE/591cc35fd39292adae13f01aa13e978d0bb11936/spring-beans-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.11.RELEASE/148a8463bd0746a4ee05c56e2c414b3c5812fcaf/spring-context-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.11.RELEASE/3efec2d7c7469d49108a2b21c3f15831f7297569/spring-context-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.11.RELEASE/b97afd9e9960c68fc5d2853e757208151a1d7ba6/spring-expression-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.11.RELEASE/fca662a2fccdad90ec22b2aaecb021047dcbe249/spring-expression-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.10/b06ea75fbe35522c5f43027dda054c99774e6479/aspectjweaver-1.8.10-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.10/e198c5fee28988c355f74e06461614eae36b2032/aspectjweaver-1.8.10.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.5.20/e682c2c7ff8b2381ec0369c8f0577599050f9f28/tomcat-jdbc-8.5.20-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.5.20/10d0d288d837ddfc92096920e4571054a3934160/tomcat-jdbc-8.5.20.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.11.RELEASE/c7fc0081cfe5b5b37146fe250d0e8c8dd1edfb1e/spring-jdbc-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.11.RELEASE/642ed7497d327f299caccb930af6b65e229864c4/spring-jdbc-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-jpa-2.1-api-1.0.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.21.0-GA/81fefbd46ba6a18fc7af83b9c60b28c0862cd492/javassist-3.21.0-GA-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.21.0-GA/598244f595db5c5fb713731eddbb1c91a58d959b/javassist-3.21.0-GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/83cd2cd674a217ade95a4bb83a8a14f351f48bd0/antlr-2.7.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/2.0.0.Final/614a36762219d78e9ea3be22c47e6c2933e2db71/jandex-2.0.0.Final-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/2.0.0.Final/3e899258936f94649c777193e1be846387ed54b3/jandex-2.0.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/5.0.1.Final/203038e420aaa3fa6df8bad4fda19ca1e2824005/hibernate-commons-annotations-5.0.1.Final-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/5.0.1.Final/71e1cff3fcb20d3b3af4f3363c3ddb24d33c6879/hibernate-commons-annotations-5.0.1.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.13.7.RELEASE/2f57d3f01ebd4667a6e8654e7ff7ec66742729be/spring-data-commons-1.13.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.13.7.RELEASE/cf4538abda1f0a9cf2323d6e4204df0130aeec73/spring-data-commons-1.13.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.3.11.RELEASE/ad851958fae05cd8a951963fe97ddc5d306c523e/spring-orm-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.3.11.RELEASE/7ba1b25ad62b29295aa90ae88f9f35e84861953c/spring-orm-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.11.RELEASE/2a2abcec95192d6e6cf9e0adf21ef5d9415ad9d1/spring-tx-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.11.RELEASE/c931ee363d2269f03edfeb83d7d7fe23924ab8a1/spring-tx-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.11/2a2f78be7ef674b6486f7b5463f05f40da5e163/logback-classic-1.1.11-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.11/ccedfbacef4a6515d2983e3f89ed753d5d4fb665/logback-classic-1.1.11.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/bcea1530927f59b5128841d3571f879ce3af2e86/jul-to-slf4j-1.7.25-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/af5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.25/42a10e06ab88cbe5f31253ffb8c0bca96b34f81d/log4j-over-slf4j-1.7.25-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.25/a87bb47468f47ee7aabbd54f93e133d4215769c3/log4j-over-slf4j-1.7.25.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/ognl/ognl/3.0.8/1b6bace3760cdf6dfb2c0fea0b266fa9d802c403/ognl-3.0.8-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/ognl/ognl/3.0.8/37e1aebfde7eb7baebc9ad4f85116ef9009c5fc5/ognl-3.0.8.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.unbescape/unbescape/1.1.0.RELEASE/ffc384b1f9fcd7d9a61d764b3cafccca187cb02f/unbescape-1.1.0.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.unbescape/unbescape/1.1.0.RELEASE/ab0db4fe0a6fa89fb8da2a40008a4e63a7f3f5b9/unbescape-1.1.0.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.5.20/75c017a4c6a2c700f8eda3cc6bbdc4245c3c20c7/tomcat-juli-8.5.20-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.5.20/6c0579d329696059f377585d2a51455bf083d9ee/tomcat-juli-8.5.20.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.11/1b6214469321068fe4d58157768e1e039479fa1/logback-core-1.1.11-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.11/88b8df40340eed549fb07e2613879bf6b006704d/logback-core-1.1.11.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/1.5.7.RELEASE/812ac605bcfb9ebfadf91a73c292a38311fae98/spring-boot-starter-test-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/1.5.7.RELEASE/d23f37a72c2d4e46aba66bc69a649213f9cadeee/spring-boot-starter-test-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/1.5.7.RELEASE/a505c299321609fb5d05e44620bf178051aa7819/spring-boot-test-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/1.5.7.RELEASE/b8d77445d48f4320f404d8f13f4e5cb95bc36b30/spring-boot-test-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/1.5.7.RELEASE/8bf9ed61dde428e482d8194c8b37090368426d46/spring-boot-test-autoconfigure-1.5.7.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/1.5.7.RELEASE/8bead16b97c9f1b5fe7c47f3e030dd9351a6974d/spring-boot-test-autoconfigure-1.5.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.2.0/546dfa7cadacf40752c42bfd12af3b7a935920af/json-path-2.2.0-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.2.0/22290d17944bd239fabf5ac69005a60a7ecbbbcb/json-path-2.2.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.m2/repository/junit/junit/4.12/junit-4.12-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.m2/repository/junit/junit/4.12/junit-4.12.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/2.6.0/86e8fd98e5ec52e93e3fa46d9bf5df7cca6d1bce/assertj-core-2.6.0-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/2.6.0/b532c3fc4f66bcfee4989a3514f1cd56203a33ad/assertj-core-2.6.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-core-1.10.19-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/e8546f5bef4e061d8dd73895b4e8f40e3fe6effe/mockito-core-1.10.19.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/47a7ee46628ab7133129cd7cef1e92657bc275e/hamcrest-library-1.3-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.4.0/49efe8c34f11f1c0e2a1d8e297f59ec84adcdf6d/jsonassert-1.4.0-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.4.0/9cdbb373a06f6513e51e8c545ee6a5e981463edb/jsonassert-1.4.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.11.RELEASE/e54d22ae2d53594bb3114e496c15e391102f87fc/spring-test-4.3.11.RELEASE-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.3.11.RELEASE/cf765b5d6d6bdc38c67522ecae3fe9549da43e1/spring-test-4.3.11.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.2.1/fe70f8807c06ef9dd27b695830149c118010308f/json-smart-2.2.1-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.2.1/5b9e5df7a62d1279b70dc882b041d249c4f0b002/json-smart-2.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/TAREQ SEFATI/.m2/repository/org/objenesis/objenesis/2.1/objenesis-2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/bf42d7e47a3228513b626dd7d37ac6f072aeca4f/android-json-0.0.20131108.vaadin1-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/fa26d351fe62a6a17f5cda1287c1c6110dec413f/android-json-0.0.20131108.vaadin1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.1/b5c478091ad2bfd497758094b00936543393415b/accessors-smart-1.1-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.1/a527213f2fea112a04c9bdf0ec0264e34104cd08/accessors-smart-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-5.0.3-sources.jar" kind="lib" path="C:/Users/TAREQ SEFATI/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>
